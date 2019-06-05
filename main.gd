@@ -1,5 +1,7 @@
 extends Node
 
+# This is an example of a main.gd script (i.e. one attached to the root node of any scene).
+
 onready var actions = get_node('/root/actions')
 onready var reducers = get_node('/root/reducers')
 onready var store = get_node('/root/store')
