@@ -1,5 +1,5 @@
 # godot-redux
-Modification of https://github.com/glumpyfish/godot_redux updating it to work for Godot 3
+Modification of https://github.com/glumpyfish/godot_redux updating it to work for Godot 3.
 
 # Usage
 The usage for this plugin is almost identical to its source. Any notable changes are listed below:
