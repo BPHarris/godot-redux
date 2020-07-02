@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.png"  alt="Godot" height="128" width="128"/>
-<img src="https://raw.githubusercontent.com/reactjs/redux/master/logo/logo.png" alt="Redux" height="128" width="128"/>
+<img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.png"  alt="Godot" height="128" width="128"/> <img src="https://raw.githubusercontent.com/reactjs/redux/master/logo/logo.png" alt="Redux" height="128" width="128"/>
 
 
 # godot-redux
