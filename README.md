@@ -1,3 +1,6 @@
+![Godot Logo](https://raw.githubusercontent.com/godotengine/godot/master/icon.png)
+![Redux Logo](https://raw.githubusercontent.com/reactjs/redux/master/logo/logo.png)
+
 # godot-redux
 Modification of the Godot 2 plugin https://github.com/glumpyfish/godot_redux updating it to work for Godot 3 as an `addon`.
 
