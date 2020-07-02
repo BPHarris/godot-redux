@@ -9,7 +9,7 @@ Modification of the Godot 2 plugin https://github.com/glumpyfish/godot_redux upd
     ```
     NB: The addon folder must be `godot_redux` verbatim or Godot will not correctly register the plugin.
 3. In your Godot project go to `Project > Project Settings... > Plugins` and set the plugin to active.
-4. Follow the steps from the [Godot 2 version's](https://github.com/glumpyfish/godot_redux) 'Usage' section (add some autoloads).
+4. Follow the steps from the [Godot 2 version's](https://github.com/glumpyfish/godot_redux) 'Usage' section (might not be neccessary in latest Godot).
 5. Enjoy!
 
 # Usage
